@@ -1,0 +1,4 @@
+
+matplotlib <= 3.5.2
+gensim >= 4.0.0
+
